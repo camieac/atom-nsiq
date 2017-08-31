@@ -1,0 +1,22 @@
+{
+  "name": "atom-nsiq",
+  "main": "./lib/atom-nsiq",
+  "version": "0.1.0",
+  "description": "Highlight areas of C/C++ code the fail nsiqcppstyle checks.",
+  "keywords": [
+    "nsiqcppstyle",
+    "style",
+    "check",
+    "style checker",
+    "C",
+    "C++"
+  ],
+  "repository": "https://github.com/camieac/atom-nsiq",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-message-panel": ">=1.3.0"
+  }
+}
