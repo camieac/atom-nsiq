@@ -1,5 +1,13 @@
 # atom-nsiq package
 
-A short description of your package.
+Integrates nsiqcppstyle checker into Atom.
 
-![Example of style check results](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Screenshots
+
+![Example C file with style check](https://github.com/camieac/atom-nsiq/raw/gh-pages/img/atom-nsiq-screenshot.png)
+
+## Website
+[http://camieac.github.io/atom-nsiq/](http://camieac.github.io/atom-nsiq/)
+
+## Contributors
+Cameron A. Craig (@camieac)
